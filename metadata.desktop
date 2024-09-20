@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Hyde Sddm
+Description=hyprlock styled theme for SDDM
+Type=sddm-theme
+Version=2.1
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=Hy-Sddm
+Theme-API=2.0
+QtVersion=6
